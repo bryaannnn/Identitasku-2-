@@ -1,0 +1,113 @@
+/* CSS untuk body */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+}
+
+/* CSS untuk nama produk */
+.namaproduk {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.namaproduk h3 {
+  margin: 0;
+  color: #333;
+}
+
+/* CSS untuk ucapan */
+.ucapan {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.ucapan h3 {
+  margin: 0;
+  color: #333;
+}
+
+.ucapan h4 {
+  margin: 0;
+  color: #666;
+}
+
+/* CSS untuk tabel */
+.tabelpenduduk,
+.tabelktp,
+.tabelbuktisyarat,
+.tabeladmin {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.tabelpenduduk h3,
+.tabelktp h3,
+.tabelbuktisyarat h3,
+.tabeladmin h3 {
+  margin: 0;
+  color: #333;
+}
+
+.tabelpenduduk h3 {
+  margin-bottom: 10px;
+}
+
+.tabelpenduduk h3,
+.tabelktp h3,
+.tabelbuktisyarat h3,
+.tabeladmin h3 {
+  font-size: 24px;
+}
+
+.tabelpenduduk h3,
+.tabelktp h3,
+.tabelbuktisyarat h3,
+.tabeladmin h3 {
+  color: #333;
+}
+
+.tabelpenduduk h3 {
+  margin-bottom: 10px;
+}
+
+.tabelpenduduk h3,
+.tabelktp h3,
+.tabelbuktisyarat h3,
+.tabeladmin h3 {
+  font-size: 24px;
+}
+
+.tabelpenduduk h3,
+.tabelktp h3,
+.tabelbuktisyarat h3,
+.tabeladmin h3 {
+  color: #333;
+}
+
+.tabelpenduduk a,
+.tabelktp a,
+.tabelbuktisyarat a,
+.tabeladmin a {
+  text-decoration: none;
+}
+
+.tabelpenduduk button,
+.tabelktp button,
+.tabelbuktisyarat button,
+.tabeladmin button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.tabelpenduduk button:hover,
+.tabelktp button:hover,
+.tabelbuktisyarat button:hover,
+.tabeladmin button:hover {
+  background-color: #666;
+}
